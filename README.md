@@ -1,2 +1,2 @@
 # lti-azuredevops
-Training purposes
+Training purposes.
